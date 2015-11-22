@@ -11,11 +11,15 @@ Extends [Circle](http://leafletjs.com/reference.html#circle). Use [Map#addLayer]
 
 Include the single JavaScript file on your page somewhere after Leaflet:
 
-    <script src="bower_components/leaflet.sector/leaflet.sector.js"></script>
+```html
+<script src="bower_components/leaflet.sector/leaflet.sector.js"></script>
+```
 
 ## Usage
 
-    L.sector([50.5, 30.5], 200, 30, 45).addTo(map);
+```javascript
+L.sector([50.5, 30.5], 200, 30, 45).addTo(map);
+```
 
 ## Creation
 
