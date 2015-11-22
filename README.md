@@ -1,5 +1,5 @@
 # Sector
-A circle sector overlay with a certain radius in meters, theta angle and rotation angle for Leaflet.
+A circle sector overlay (with a certain radius in meters, theta angle and azimuth) for Leaflet.
 
 Extends [Circle](http://leafletjs.com/reference.html#circle). Use [Map#addLayer](http://leafletjs.com/reference.html#map-addlayer) to add it to the map.
 

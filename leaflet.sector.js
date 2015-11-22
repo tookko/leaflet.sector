@@ -1,5 +1,5 @@
 /*
- * L.Sector is a circle sector overlay (with a certain radius in meters, theta angle and rotation angle).
+ * L.Sector is a circle sector overlay (with a certain radius in meters, theta angle and azimuth).
  */
 
 L.Sector = L.Circle.extend({
