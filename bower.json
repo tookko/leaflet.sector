@@ -1,0 +1,16 @@
+{
+  "name": "leaflet.sector",
+  "main": "leaflet.sector.js",
+  "homepage": "https://github.com/tookko/leaflet.sector",
+  "description": "A circle sector overlay with a certain radius in meters, theta angle and rotation angle for Leaflet.",
+  "moduleType": [],
+  "keywords": [
+    "leaflet",
+    "sector",
+    "circle"
+  ],
+  "authors": [
+    "Sampsa Tuokko"
+  ],
+  "license": "MIT"
+}
